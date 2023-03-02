@@ -1,4 +1,6 @@
-# Problema-8-Reinas-Funcional-
+# Problema-8-Reinas-Funcional
+En este ejemplo se trata de sacar heuristicas bajas de un tablero aleatorio (NO SE RESUELVE COMPLETAMENTE EL PROBLEMA).
+
 En este repositorio se encuentra la forma de Resolver el problema de las 8 Reinas. Este problema se resolvió con Python. Dicho ejercisio resuelve los siguientes puntos:
 
 Colocar las 8 reinas en un tablero de Ajedrez de manera que cada reina no ataque a ninguna otra.
@@ -13,3 +15,9 @@ Desarrollo:
 •	Detectar ataques en horizontal y diagonal (izquierda y derecha). 
 
 En este caso el programa saca Heuristicas de H = 0, H = 1, H = 2 y H = 3
+
+
+![image](https://user-images.githubusercontent.com/92546462/222448764-21a85587-1e2d-4452-9fba-1f9f4b9a064c.png)
+
+PARTE 3 (Implementando Algoritmo Evolutivo que resuelve el problema):
+https://github.com/JosueRenteria/Algoritmo-Evolutivo
